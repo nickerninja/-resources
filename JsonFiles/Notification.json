@@ -3,10 +3,10 @@
       "title":" Welcome to S6 ",
       "content":"  Student alert app",
 	  "date" : " Today"
-   }
+   },
 	  {
           "title":"LANGUAGE TEST ",
           "content":" Language test willbe conducted in photon Lab at 1:35",
             "date" : " 4/11/17"
-    },
+    }
 ]
