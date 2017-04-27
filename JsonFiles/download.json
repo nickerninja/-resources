@@ -1,7 +1,7 @@
 [
   
   {
-      "name":" Daa module",
+      "name":" Daa module 1",
       "description":" NIL",
     "author" : "NIL",
       "type" : "word Document",
@@ -35,6 +35,33 @@
       "subject" : "cn" ,
       "date" : "17th August 2016",
       "download":"https://raw.githubusercontent.com/nickerninja/-resources/master/NOTES%20CN4.docx"
+   },
+  {
+      "name":" SE module1",
+      "description":" NIL",
+    "author" : "NIL",
+      "type" : "word Document",
+      "subject" : "se" ,
+      "date" : "17th August 2016",
+      "download":"https://raw.githubusercontent.com/nickerninja/-resources/master/se%20Lecture-1.pdf"
+   },
+  {
+      "name":" IC 2013",
+      "description":" IC 2013 question paper without answers",
+    "author" : "NIL",
+      "type" : "word Document",
+      "subject" : "exam" ,
+      "date" : "17th August 2016",
+      "download:https://raw.githubusercontent.com/nickerninja/-resources/master/ic2013.docx"
+   },
+  {
+      "name:module 1"
+      "description:ic module 1 ppt"
+    "author" : "NIL",
+      "type" : "ppt"
+      "subject" : "ic" ,
+      "date" : "17th August 2016",
+      "download:https://raw.githubusercontent.com/nickerninja/-resources/master/IC_Module_1.ppt"
    }
   
   
