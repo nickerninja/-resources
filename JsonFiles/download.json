@@ -17,23 +17,6 @@
       "subject" : "cn" ,
       "date" : "17th August 2016",
       "download":"https://raw.githubusercontent.com/nickerninja/-resources/master/NOTES%20CN3.docx"
-   } ,
-  {
-      "name":" IC 2013",
- 
-     "description":" IC 2013 question paper without answers",
- 
-   "author" : "NIL",
-
-    "type" : "word Document",
- 
-    "subject" : "exam" ,
-
-    "date" : "17th August 2016",
- 
-    "download:https://raw.githubusercontent.com/nickerninja/-resources/master/ic2013.docx"
-
-
-}
+   } 
   
 ]
