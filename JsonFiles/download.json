@@ -55,10 +55,10 @@
       "download:https://raw.githubusercontent.com/nickerninja/-resources/master/ic2013.docx"
    },
   {
-      "name:module 1"
-      "description:ic module 1 ppt"
+      "name:module 1",
+      "description:ic module 1 ppt",
     "author" : "NIL",
-      "type" : "ppt"
+      "type" : "ppt",
       "subject" : "ic" ,
       "date" : "17th August 2016",
       "download:https://raw.githubusercontent.com/nickerninja/-resources/master/IC_Module_1.ppt"
